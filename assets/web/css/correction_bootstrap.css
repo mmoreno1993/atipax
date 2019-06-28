@@ -1,0 +1,21 @@
+.carousel-indicators {
+    left: inherit;
+    z-index: none;
+    width: 0px;
+}
+
+.carousel-indicators li {
+    height: inherit;
+    margin: 0px;
+    text-indent: none;
+    background-color: none;
+    border: 0px;
+    border-radius: 0px;
+}
+
+.carousel-indicators .active {
+    width: 0px;
+    height: 0px;
+    margin: 0px;
+    background-color: none;
+}
